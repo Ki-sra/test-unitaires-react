@@ -31,7 +31,7 @@ Il met en œuvre une application React consommant une API REST externe (Fake Sto
 
 --- 
 <p align="center">
-  <img src="assets/images/pictureOfUs.jpge" width="600">
+  <img src="assets/images/pictureOfUs.jpeg" width="600">
 </p>
 
 
